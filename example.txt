@@ -1,3 +1,4 @@
 example file
 added 2nd line of type
 added 3rd line of type
+added 4th line of type
